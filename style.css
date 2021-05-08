@@ -1,0 +1,49 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.max-width {
+    max-width: 500px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-top: 10%;
+    background-color: #3fff;
+    box-shadow: 0 0 5px #3fff;
+    text-align: center;
+}
+
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+}
+
+
+button {
+    padding: 10px;
+    border: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.1em;
+    transition: all .5s;
+    cursor: pointer;
+    border-radius: 25px;    
+}
+
+
+button:hover {
+    background-color: blueviolet;
+}
+
+.bg-green {
+    background-color:green;
+}
+
+.bg-yellow {
+    background-color:yellow;
+}
+
+.bg-red {
+    background-color:red
+}
