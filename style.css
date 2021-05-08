@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    background-color:black;
+}
+
 .max-width {
     max-width: 500px;
     width: 100%;
@@ -22,7 +26,7 @@ h1 {
 
 
 button {
-    padding: 10px;
+    padding: 10px 20px;
     border: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1.1em;
@@ -33,7 +37,7 @@ button {
 
 
 button:hover {
-    background-color: blueviolet;
+    box-shadow: 0px 0px 6px black;
 }
 
 .bg-green {
