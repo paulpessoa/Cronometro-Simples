@@ -1,4 +1,3 @@
-# Cronometro-Simples
-Projeto simples para praticar JavaScript
+# Simple Stopwatch - Cronômetro Simples
 
-<img src="./imagem/cronometro-simples.png"/> (https://paulpessoa.github.io/Cronometro-Simples/)
+[<img src="./imagem/cronometro-simples.png" alt="Cronometro Landingpage">](https://paulpessoa.github.io/Cronometro-Simples/)
